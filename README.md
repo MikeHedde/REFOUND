@@ -21,7 +21,7 @@
 
 ## Overview
 
-This research compendium… **{{ DESCRIBE YOUR PROJECT }}**
+This research compendium is dedicateed to the study of the functioning of truffle ecosystems by exploring, in particular, the biological diversity of soils, whether in spontaneous truffle orchards. The interactions between soil fauna, ectomycorrhizal fungal species, and companion plants of the black truffle will also be analyzed to better understand the complementarities between these groups of organisms 
 
 ## Features
 
@@ -34,9 +34,6 @@ This repository is structured as follow:
 
 -   [`DESCRIPTION`](https://github.com/MikeHedde/REFOUND/tree/master/DESCRIPTION):
     contains project metadata (authors, date, dependencies, etc.)
-
--   [`make.R`](https://github.com/MikeHedde/REFOUND/tree/master/make.R):
-    main R script to run the entire project
 
 -   [`R/`](https://github.com/MikeHedde/REFOUND/tree/master/R): contains
     R functions developed especially for this project
